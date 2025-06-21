@@ -17,7 +17,7 @@ A simple interactive web app to visualize sorting algorithms like **Bubble Sort*
 - Clean and beginner-friendly code
 
 ## 📸 Screenshot
-(You can upload an image later if you want to add one)
+![AlgoVis Screenshot](Screenshot.png)
 
 ## 📁 How to Run Locally
 1. Clone this repo or download the ZIP
